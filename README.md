@@ -1,4 +1,4 @@
-# Samara Image-Based Motion Analysis
+# Mahagony Seed Image-Based Motion Analysis
 
 MATLAB code and captured outputs for image-based analysis of a rotating/falling **samara** (winged seed). The supplied material contains scripts for background subtraction, projected-area tracking, descent/path tracking, rotational-speed estimation, coning-angle estimation, image-axis annotation, and supporting utilities.
 
@@ -25,18 +25,18 @@ The project also contains `code_extract.mlx`, which is a separate MATLAB Live Sc
 
 The original project contains:
 
-- `decent_test_02_08_22_new.m` — newer samara image-processing workflow
-- `decent_test_02_08_22.m` — earlier descent/area/RPM/coning workflow
-- `decent_test_02_08_22-2` — another earlier workflow variant
-- `code_extract.mlx` — MATLAB Live Script for velocity-field data extraction
-- `Add_axis_to_the_image.m` — adds a calibrated axis image to PNG frames
-- `grabit.m` — image digitization/calibration utility
-- `natsort.m`, `natsortfiles.m` — natural filename sorting utilities
-- `natsortfiles_doc.m`, `natsortfiles_test.m` — documentation/tests for natural sorting
-- `matlab.m` — additional MATLAB analysis code
-- `scale.tif` — supplied scale/reference image
-- `vid_2022-10-06_13-30-27_2.mp4` — supplied experimental video
-- `19n1.png`, `19n1_.png` — supplied output figures
+- `decent_test_02_08_22_new.m`: newer samara image-processing workflow
+- `decent_test_02_08_22.m` : earlier descent/area/RPM/coning workflow
+- `decent_test_02_08_22-2` : another earlier workflow variant
+- `code_extract.mlx` : MATLAB Live Script for velocity-field data extraction
+- `Add_axis_to_the_image.m` : adds a calibrated axis image to PNG frames
+- `grabit.m` : image digitization/calibration utility
+- `natsort.m`, `natsortfiles.m` : natural filename sorting utilities
+- `natsortfiles_doc.m`, `natsortfiles_test.m` : documentation/tests for natural sorting
+- `matlab.m` : additional MATLAB analysis code
+- `scale.tif` : supplied scale/reference image
+- `vid_2022-10-06_13-30-27_2.mp4` : supplied experimental video
+- `19n1.png`, `19n1_.png` : supplied output figures
 
 ## What the main samara analysis does
 
