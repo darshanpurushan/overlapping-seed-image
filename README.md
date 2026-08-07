@@ -1,4 +1,4 @@
-# Mahagony Seed Image-Based Motion Analysis
+# Mahagony Seed Decent Analysis through Image Tracking
 
 MATLAB code and captured outputs for image-based analysis of a rotating/falling **samara** (winged seed). The supplied material contains scripts for background subtraction, projected-area tracking, descent/path tracking, rotational-speed estimation, coning-angle estimation, image-axis annotation, and supporting utilities.
 
